@@ -1,3 +1,5 @@
+#Project Assignment 1
+
 SortingAlgorithms.java measures the exact time it takes for different sorting algorithms to sort different size arrays. Graphs of these can be found in the Jupyter Notebook, the .png files, or below.
 ![all_algorithms_performance](https://github.com/Veomett/project-assignment-1-sanjanarattan/assets/123421542/1981e91c-ddd5-4244-adbb-8b53db81f60a)
 
