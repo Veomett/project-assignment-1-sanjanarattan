@@ -1,0 +1,61 @@
+Algorithm,ArraySize,Time
+Selection Sort,50000,406
+Bubble Sort,50000,3358
+Insertion Sort,50000,1400
+Merge Sort,50000,9
+Quick Sort,50000,6
+Algorithm,ArraySize,Time
+Selection Sort,100000,1608
+Bubble Sort,100000,14774
+Insertion Sort,100000,5580
+Merge Sort,100000,14
+Quick Sort,100000,6
+Algorithm,ArraySize,Time
+Selection Sort,150000,3042
+Bubble Sort,150000,33196
+Insertion Sort,150000,1978
+Merge Sort,150000,15
+Quick Sort,150000,10
+Algorithm,ArraySize,Time
+Selection Sort,200000,6313
+Bubble Sort,200000,60867
+Insertion Sort,200000,3562
+Merge Sort,200000,25
+Quick Sort,200000,14
+Algorithm,ArraySize,Time
+Selection Sort,250000,9934
+Bubble Sort,250000,96129
+Insertion Sort,250000,5516
+Merge Sort,250000,26
+Quick Sort,250000,18
+Algorithm,ArraySize,Time
+Selection Sort,300000,14420
+Bubble Sort,300000,139545
+Insertion Sort,300000,8088
+Merge Sort,300000,38
+Quick Sort,300000,22
+Algorithm,ArraySize,Time
+Selection Sort,350000,20081
+Bubble Sort,350000,189109
+Insertion Sort,350000,10912
+Merge Sort,350000,47
+Quick Sort,350000,26
+Algorithm,ArraySize,Time
+Selection Sort,400000,25340
+Bubble Sort,400000,248362
+Insertion Sort,400000,14634
+Merge Sort,400000,56
+Quick Sort,400000,30
+Algorithm,ArraySize,Time
+Selection Sort,450000,32484
+Bubble Sort,450000,315423
+Insertion Sort,450000,18116
+Merge Sort,450000,53
+Quick Sort,450000,35
+Algorithm,ArraySize,Time
+Selection Sort,500000,40294
+Bubble Sort,500000,380020
+Insertion Sort,500000,22034
+Merge Sort,500000,55
+Quick Sort,500000,37
+
